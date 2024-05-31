@@ -1,0 +1,105 @@
+/*
+Theme Name: Twenty Twenty-Four Child
+Theme URI: http://example.com/twentytwentyone-child
+Description: Twenty Twenty-Four Child Theme
+Author: Your Name
+Author URI: http://example.com
+Template: twentytwentyfour
+Version: 1.0.0
+*/
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.page-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.discussion-item {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.discussion-title {
+    font-size: 24px;
+    margin: 0;
+}
+
+.discussion-title a {
+    text-decoration: none;
+    color: #333;
+}
+
+.discussion-meta {
+    font-size: 14px;
+    color: #999;
+}
+
+.discussion-excerpt {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+}
+
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pagination .page-numbers {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #0073aa;
+}
+
+.pagination .page-numbers.current {
+    font-weight: bold;
+    color: #333;
+}
+/*Discussions single*/
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.entry-header {
+    margin-bottom: 20px;
+}
+
+.entry-title {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.entry-meta {
+    font-size: 14px;
+    color: #999;
+}
+
+.entry-content {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.entry-footer {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+
+.entry-categories, .entry-tags {
+    font-size: 14px;
+    color: #666;
+}
+
+.comments-section {
+    margin-top: 40px;
+}
